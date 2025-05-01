@@ -1,0 +1,376 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dc793\\source\\repos\\DiogoCosta1004\\WebService\\Workers-API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A405E95E-DBB8-4E53-82E5-04C20B5D0A17}|Workers-API\\Workers-API.csproj|c:\\users\\dc793\\source\\repos\\diogocosta1004\\webservice\\workers-api\\workers-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A405E95E-DBB8-4E53-82E5-04C20B5D0A17}|Workers-API\\Workers-API.csproj|solutionrelative:workers-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A405E95E-DBB8-4E53-82E5-04C20B5D0A17}|Workers-API\\Workers-API.csproj|c:\\users\\dc793\\source\\repos\\diogocosta1004\\webservice\\workers-api\\workers-api\\controllers\\workercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A405E95E-DBB8-4E53-82E5-04C20B5D0A17}|Workers-API\\Workers-API.csproj|solutionrelative:workers-api\\controllers\\workercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dc793\\source\\repos\\DiogoCosta1004\\WebService\\Workers-API\\Workers-API\\obj\\Debug\\net8.0\\Workers-API.MvcApplicationPartsAssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Workers-API\\obj\\Debug\\net8.0\\Workers-API.MvcApplicationPartsAssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dc793\\source\\repos\\DiogoCosta1004\\WebService\\Workers-API\\Workers-API\\obj\\Debug\\net8.0\\staticwebassets.references.upToDateCheck.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Workers-API\\obj\\Debug\\net8.0\\staticwebassets.references.upToDateCheck.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dc793\\source\\repos\\DiogoCosta1004\\WebService\\Workers-API\\Workers-API\\obj\\Debug\\net8.0\\staticwebassets.build.endpoints.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Workers-API\\obj\\Debug\\net8.0\\staticwebassets.build.endpoints.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dc793\\source\\repos\\DiogoCosta1004\\WebService\\Workers-API\\Workers-API\\obj\\Debug\\net8.0\\Workers-API.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Workers-API\\obj\\Debug\\net8.0\\Workers-API.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A405E95E-DBB8-4E53-82E5-04C20B5D0A17}|Workers-API\\Workers-API.csproj|c:\\users\\dc793\\source\\repos\\diogocosta1004\\webservice\\workers-api\\workers-api\\workers-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A405E95E-DBB8-4E53-82E5-04C20B5D0A17}|Workers-API\\Workers-API.csproj|solutionrelative:workers-api\\workers-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A405E95E-DBB8-4E53-82E5-04C20B5D0A17}|Workers-API\\Workers-API.csproj|c:\\users\\dc793\\source\\repos\\diogocosta1004\\webservice\\workers-api\\workers-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A405E95E-DBB8-4E53-82E5-04C20B5D0A17}|Workers-API\\Workers-API.csproj|solutionrelative:workers-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A405E95E-DBB8-4E53-82E5-04C20B5D0A17}|Workers-API\\Workers-API.csproj|c:\\users\\dc793\\source\\repos\\diogocosta1004\\webservice\\workers-api\\workers-api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A405E95E-DBB8-4E53-82E5-04C20B5D0A17}|Workers-API\\Workers-API.csproj|solutionrelative:workers-api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A405E95E-DBB8-4E53-82E5-04C20B5D0A17}|Workers-API\\Workers-API.csproj|c:\\users\\dc793\\source\\repos\\diogocosta1004\\webservice\\workers-api\\workers-api\\services\\workerservices\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A405E95E-DBB8-4E53-82E5-04C20B5D0A17}|Workers-API\\Workers-API.csproj|solutionrelative:workers-api\\services\\workerservices\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A405E95E-DBB8-4E53-82E5-04C20B5D0A17}|Workers-API\\Workers-API.csproj|c:\\users\\dc793\\source\\repos\\diogocosta1004\\webservice\\workers-api\\workers-api\\services\\workerservices\\iemployeeinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A405E95E-DBB8-4E53-82E5-04C20B5D0A17}|Workers-API\\Workers-API.csproj|solutionrelative:workers-api\\services\\workerservices\\iemployeeinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A405E95E-DBB8-4E53-82E5-04C20B5D0A17}|Workers-API\\Workers-API.csproj|c:\\users\\dc793\\source\\repos\\diogocosta1004\\webservice\\workers-api\\workers-api\\models\\workermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A405E95E-DBB8-4E53-82E5-04C20B5D0A17}|Workers-API\\Workers-API.csproj|solutionrelative:workers-api\\models\\workermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A405E95E-DBB8-4E53-82E5-04C20B5D0A17}|Workers-API\\Workers-API.csproj|c:\\users\\dc793\\source\\repos\\diogocosta1004\\webservice\\workers-api\\workers-api\\models\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A405E95E-DBB8-4E53-82E5-04C20B5D0A17}|Workers-API\\Workers-API.csproj|solutionrelative:workers-api\\models\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A405E95E-DBB8-4E53-82E5-04C20B5D0A17}|Workers-API\\Workers-API.csproj|c:\\users\\dc793\\source\\repos\\diogocosta1004\\webservice\\workers-api\\workers-api\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A405E95E-DBB8-4E53-82E5-04C20B5D0A17}|Workers-API\\Workers-API.csproj|solutionrelative:workers-api\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A405E95E-DBB8-4E53-82E5-04C20B5D0A17}|Workers-API\\Workers-API.csproj|c:\\users\\dc793\\source\\repos\\diogocosta1004\\webservice\\workers-api\\workers-api\\migrations\\20250329000348_workers-migration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A405E95E-DBB8-4E53-82E5-04C20B5D0A17}|Workers-API\\Workers-API.csproj|solutionrelative:workers-api\\migrations\\20250329000348_workers-migration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A405E95E-DBB8-4E53-82E5-04C20B5D0A17}|Workers-API\\Workers-API.csproj|c:\\users\\dc793\\source\\repos\\diogocosta1004\\webservice\\workers-api\\workers-api\\migrations\\20250329000348_workers-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A405E95E-DBB8-4E53-82E5-04C20B5D0A17}|Workers-API\\Workers-API.csproj|solutionrelative:workers-api\\migrations\\20250329000348_workers-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dc793\\source\\repos\\DiogoCosta1004\\WebService\\.vs\\WebService\\v17\\DocumentLayout.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dc793\\source\\repos\\DiogoCosta1004\\WebService\\.vs\\WebService\\v17\\DocumentLayout.backup.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A405E95E-DBB8-4E53-82E5-04C20B5D0A17}|Workers-API\\Workers-API.csproj|c:\\users\\dc793\\source\\repos\\diogocosta1004\\webservice\\workers-api\\workers-api\\datacontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A405E95E-DBB8-4E53-82E5-04C20B5D0A17}|Workers-API\\Workers-API.csproj|solutionrelative:workers-api\\datacontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A405E95E-DBB8-4E53-82E5-04C20B5D0A17}|Workers-API\\Workers-API.csproj|c:\\users\\dc793\\source\\repos\\diogocosta1004\\webservice\\workers-api\\workers-api\\enum\\departmentenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A405E95E-DBB8-4E53-82E5-04C20B5D0A17}|Workers-API\\Workers-API.csproj|solutionrelative:workers-api\\enum\\departmentenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A405E95E-DBB8-4E53-82E5-04C20B5D0A17}|Workers-API\\Workers-API.csproj|c:\\users\\dc793\\source\\repos\\diogocosta1004\\webservice\\workers-api\\workers-api\\enum\\shiftenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A405E95E-DBB8-4E53-82E5-04C20B5D0A17}|Workers-API\\Workers-API.csproj|solutionrelative:workers-api\\enum\\shiftenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 20,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WorkerController.cs",
+              "DocumentMoniker": "C:\\Users\\dc793\\source\\repos\\DiogoCosta1004\\WebService\\Workers-API\\Workers-API\\Controllers\\WorkerController.cs",
+              "RelativeDocumentMoniker": "Workers-API\\Controllers\\WorkerController.cs",
+              "ToolTip": "C:\\Users\\dc793\\source\\repos\\DiogoCosta1004\\WebService\\Workers-API\\Workers-API\\Controllers\\WorkerController.cs",
+              "RelativeToolTip": "Workers-API\\Controllers\\WorkerController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADgAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T04:36:58.18Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "staticwebassets.references.upToDateCheck.txt",
+              "DocumentMoniker": "C:\\Users\\dc793\\source\\repos\\DiogoCosta1004\\WebService\\Workers-API\\Workers-API\\obj\\Debug\\net8.0\\staticwebassets.references.upToDateCheck.txt",
+              "RelativeDocumentMoniker": "Workers-API\\obj\\Debug\\net8.0\\staticwebassets.references.upToDateCheck.txt",
+              "ToolTip": "C:\\Users\\dc793\\source\\repos\\DiogoCosta1004\\WebService\\Workers-API\\Workers-API\\obj\\Debug\\net8.0\\staticwebassets.references.upToDateCheck.txt",
+              "RelativeToolTip": "Workers-API\\obj\\Debug\\net8.0\\staticwebassets.references.upToDateCheck.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-01T17:38:22.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "staticwebassets.build.endpoints.json",
+              "DocumentMoniker": "C:\\Users\\dc793\\source\\repos\\DiogoCosta1004\\WebService\\Workers-API\\Workers-API\\obj\\Debug\\net8.0\\staticwebassets.build.endpoints.json",
+              "RelativeDocumentMoniker": "Workers-API\\obj\\Debug\\net8.0\\staticwebassets.build.endpoints.json",
+              "ToolTip": "C:\\Users\\dc793\\source\\repos\\DiogoCosta1004\\WebService\\Workers-API\\Workers-API\\obj\\Debug\\net8.0\\staticwebassets.build.endpoints.json",
+              "RelativeToolTip": "Workers-API\\obj\\Debug\\net8.0\\staticwebassets.build.endpoints.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-01T17:38:20.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Workers-API.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\dc793\\source\\repos\\DiogoCosta1004\\WebService\\Workers-API\\Workers-API\\obj\\Debug\\net8.0\\Workers-API.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Workers-API\\obj\\Debug\\net8.0\\Workers-API.AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\dc793\\source\\repos\\DiogoCosta1004\\WebService\\Workers-API\\Workers-API\\obj\\Debug\\net8.0\\Workers-API.AssemblyInfo.cs",
+              "RelativeToolTip": "Workers-API\\obj\\Debug\\net8.0\\Workers-API.AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T17:38:05.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\dc793\\source\\repos\\DiogoCosta1004\\WebService\\Workers-API\\Workers-API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Workers-API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\dc793\\source\\repos\\DiogoCosta1004\\WebService\\Workers-API\\Workers-API\\appsettings.Development.json",
+              "RelativeToolTip": "Workers-API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-01T17:34:18.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\dc793\\source\\repos\\DiogoCosta1004\\WebService\\Workers-API\\Workers-API\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Workers-API\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\dc793\\source\\repos\\DiogoCosta1004\\WebService\\Workers-API\\Workers-API\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Workers-API\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T17:34:11.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250329000348_workers-migration.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dc793\\source\\repos\\DiogoCosta1004\\WebService\\Workers-API\\Workers-API\\Migrations\\20250329000348_workers-migration.Designer.cs",
+              "RelativeDocumentMoniker": "Workers-API\\Migrations\\20250329000348_workers-migration.Designer.cs",
+              "ToolTip": "C:\\Users\\dc793\\source\\repos\\DiogoCosta1004\\WebService\\Workers-API\\Workers-API\\Migrations\\20250329000348_workers-migration.Designer.cs",
+              "RelativeToolTip": "Workers-API\\Migrations\\20250329000348_workers-migration.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T17:34:10.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250329000348_workers-migration.cs",
+              "DocumentMoniker": "C:\\Users\\dc793\\source\\repos\\DiogoCosta1004\\WebService\\Workers-API\\Workers-API\\Migrations\\20250329000348_workers-migration.cs",
+              "RelativeDocumentMoniker": "Workers-API\\Migrations\\20250329000348_workers-migration.cs",
+              "ToolTip": "C:\\Users\\dc793\\source\\repos\\DiogoCosta1004\\WebService\\Workers-API\\Workers-API\\Migrations\\20250329000348_workers-migration.cs",
+              "RelativeToolTip": "Workers-API\\Migrations\\20250329000348_workers-migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T17:34:09.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Workers-API.MvcApplicationPartsAssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\dc793\\source\\repos\\DiogoCosta1004\\WebService\\Workers-API\\Workers-API\\obj\\Debug\\net8.0\\Workers-API.MvcApplicationPartsAssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Workers-API\\obj\\Debug\\net8.0\\Workers-API.MvcApplicationPartsAssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\dc793\\source\\repos\\DiogoCosta1004\\WebService\\Workers-API\\Workers-API\\obj\\Debug\\net8.0\\Workers-API.MvcApplicationPartsAssemblyInfo.cs",
+              "RelativeToolTip": "Workers-API\\obj\\Debug\\net8.0\\Workers-API.MvcApplicationPartsAssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T17:33:48.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IEmployeeInterface.cs",
+              "DocumentMoniker": "C:\\Users\\dc793\\source\\repos\\DiogoCosta1004\\WebService\\Workers-API\\Workers-API\\Services\\WorkerServices\\IEmployeeInterface.cs",
+              "RelativeDocumentMoniker": "Workers-API\\Services\\WorkerServices\\IEmployeeInterface.cs",
+              "ToolTip": "C:\\Users\\dc793\\source\\repos\\DiogoCosta1004\\WebService\\Workers-API\\Workers-API\\Services\\WorkerServices\\IEmployeeInterface.cs",
+              "RelativeToolTip": "Workers-API\\Services\\WorkerServices\\IEmployeeInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T17:33:46.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Workers-API",
+              "DocumentMoniker": "C:\\Users\\dc793\\source\\repos\\DiogoCosta1004\\WebService\\Workers-API\\Workers-API\\Workers-API.csproj",
+              "RelativeDocumentMoniker": "Workers-API\\Workers-API.csproj",
+              "ToolTip": "C:\\Users\\dc793\\source\\repos\\DiogoCosta1004\\WebService\\Workers-API\\Workers-API\\Workers-API.csproj",
+              "RelativeToolTip": "Workers-API\\Workers-API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-01T17:33:44.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DocumentLayout.json",
+              "DocumentMoniker": "C:\\Users\\dc793\\source\\repos\\DiogoCosta1004\\WebService\\.vs\\WebService\\v17\\DocumentLayout.json",
+              "RelativeDocumentMoniker": "..\\.vs\\WebService\\v17\\DocumentLayout.json",
+              "ToolTip": "C:\\Users\\dc793\\source\\repos\\DiogoCosta1004\\WebService\\.vs\\WebService\\v17\\DocumentLayout.json",
+              "RelativeToolTip": "..\\.vs\\WebService\\v17\\DocumentLayout.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-01T17:33:17.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DocumentLayout.backup.json",
+              "DocumentMoniker": "C:\\Users\\dc793\\source\\repos\\DiogoCosta1004\\WebService\\.vs\\WebService\\v17\\DocumentLayout.backup.json",
+              "RelativeDocumentMoniker": "..\\.vs\\WebService\\v17\\DocumentLayout.backup.json",
+              "ToolTip": "C:\\Users\\dc793\\source\\repos\\DiogoCosta1004\\WebService\\.vs\\WebService\\v17\\DocumentLayout.backup.json",
+              "RelativeToolTip": "..\\.vs\\WebService\\v17\\DocumentLayout.backup.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-01T17:33:16.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\dc793\\source\\repos\\DiogoCosta1004\\WebService\\Workers-API\\Workers-API\\Services\\WorkerServices\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Workers-API\\Services\\WorkerServices\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\dc793\\source\\repos\\DiogoCosta1004\\WebService\\Workers-API\\Workers-API\\Services\\WorkerServices\\EmployeeService.cs",
+              "RelativeToolTip": "Workers-API\\Services\\WorkerServices\\EmployeeService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwD4AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T04:38:32.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dc793\\source\\repos\\DiogoCosta1004\\WebService\\Workers-API\\Workers-API\\Program.cs",
+              "RelativeDocumentMoniker": "Workers-API\\Program.cs",
+              "ToolTip": "C:\\Users\\dc793\\source\\repos\\DiogoCosta1004\\WebService\\Workers-API\\Workers-API\\Program.cs",
+              "RelativeToolTip": "Workers-API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T23:57:17.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ServiceResponse.cs",
+              "DocumentMoniker": "C:\\Users\\dc793\\source\\repos\\DiogoCosta1004\\WebService\\Workers-API\\Workers-API\\Models\\ServiceResponse.cs",
+              "RelativeDocumentMoniker": "Workers-API\\Models\\ServiceResponse.cs",
+              "ToolTip": "C:\\Users\\dc793\\source\\repos\\DiogoCosta1004\\WebService\\Workers-API\\Workers-API\\Models\\ServiceResponse.cs",
+              "RelativeToolTip": "Workers-API\\Models\\ServiceResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T23:12:34.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\dc793\\source\\repos\\DiogoCosta1004\\WebService\\Workers-API\\Workers-API\\DataContext\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Workers-API\\DataContext\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\dc793\\source\\repos\\DiogoCosta1004\\WebService\\Workers-API\\Workers-API\\DataContext\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Workers-API\\DataContext\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T23:25:19.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WorkerModel.cs",
+              "DocumentMoniker": "C:\\Users\\dc793\\source\\repos\\DiogoCosta1004\\WebService\\Workers-API\\Workers-API\\Models\\WorkerModel.cs",
+              "RelativeDocumentMoniker": "Workers-API\\Models\\WorkerModel.cs",
+              "ToolTip": "C:\\Users\\dc793\\source\\repos\\DiogoCosta1004\\WebService\\Workers-API\\Workers-API\\Models\\WorkerModel.cs",
+              "RelativeToolTip": "Workers-API\\Models\\WorkerModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T23:12:21.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ShiftEnum.cs",
+              "DocumentMoniker": "C:\\Users\\dc793\\source\\repos\\DiogoCosta1004\\WebService\\Workers-API\\Workers-API\\Enum\\ShiftEnum.cs",
+              "RelativeDocumentMoniker": "Workers-API\\Enum\\ShiftEnum.cs",
+              "ToolTip": "C:\\Users\\dc793\\source\\repos\\DiogoCosta1004\\WebService\\Workers-API\\Workers-API\\Enum\\ShiftEnum.cs",
+              "RelativeToolTip": "Workers-API\\Enum\\ShiftEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T23:20:56.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DepartmentEnum.cs",
+              "DocumentMoniker": "C:\\Users\\dc793\\source\\repos\\DiogoCosta1004\\WebService\\Workers-API\\Workers-API\\Enum\\DepartmentEnum.cs",
+              "RelativeDocumentMoniker": "Workers-API\\Enum\\DepartmentEnum.cs",
+              "ToolTip": "C:\\Users\\dc793\\source\\repos\\DiogoCosta1004\\WebService\\Workers-API\\Workers-API\\Enum\\DepartmentEnum.cs",
+              "RelativeToolTip": "Workers-API\\Enum\\DepartmentEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T23:18:29.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dc793\\source\\repos\\DiogoCosta1004\\WebService\\Workers-API\\Workers-API\\appsettings.json",
+              "RelativeDocumentMoniker": "Workers-API\\appsettings.json",
+              "ToolTip": "C:\\Users\\dc793\\source\\repos\\DiogoCosta1004\\WebService\\Workers-API\\Workers-API\\appsettings.json",
+              "RelativeToolTip": "Workers-API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-28T23:10:16.438Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
